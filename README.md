@@ -2,7 +2,7 @@
 
 Interactive Wizard that helps analyze which Items (Parts or Documents) should be added to the ECR Affected Items Tab.
 
-It implements rules that guides the user to consider additional Documents and Parts that should be evaluated. The wizard records decisions made about impact (or not) and records for traceability, who made the decisions.
+It implements rules that guide the user to consider additional Documents and Parts that should be evaluated. The wizard records decisions made about impact (or not) and records for traceability, who made the decisions.
 
 ## History
 
@@ -45,7 +45,7 @@ Project | Aras
 
 > *Note: The Package name has been changed with v6.*
 > 
-> This will only impact you if you already have a previous version loaded. Before you can successfully import this new version, you must either rename the package (Administration-->Packages) to CMIIAffectedItemsWizard (removing the com.aras),  or Delete the Package item.
+> This will only impact you if you already have a previous version loaded. Before you can successfully import this new version, you must either rename the package (Administration-->Packages) to CMIIAffectedItemsWizard (removing the com.aras), or Delete the Package item.
 
 ### Install Steps
 
